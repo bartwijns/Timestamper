@@ -1,0 +1,58 @@
+<resources>
+    <!-- app name !-->
+    <string name="app_name">TimeStamper</string>
+
+    <!-- dialog strings !-->
+    <string name="time_dlg_title">Set delay</string>
+
+    <!-- notification strings !-->
+    <string name="notification_title">TimeStamping</string>
+    <string name="notification_text_vibrate">Vibrating</string>
+    <string name="notification_text_beep">Beeping</string>
+    <string name="notification_text_talk">Speaking</string>
+    <string name="and">\u0020and\u0020</string>
+    <string name="every">every\u0020</string>
+    <string name="stop">Stop</string>
+
+
+    <!-- buttons !-->
+    <string name="button_start">START</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">@android:string/cancel</string>
+
+    <!-- checkboxes !-->
+    <string name="check_vibrate">Vibrate</string>
+    <string name="check_beep">Beep</string>
+    <string name="check_talk">Talking clock</string>
+
+
+    <!-- talk strings !-->
+    <string name="talk_init">It is currently</string>
+    <string name="talk_am">AM</string>
+    <string name="talk_pm">PM</string>
+    <string name="talk_to">to</string>
+    <string name="talk_past">past</string>
+    <string name="talk_minutes_to">minutes to</string>
+    <string name="talk_minutes_past">minutes past</string>
+    <string name="talk_minute_to">minute to</string>
+    <string name="talk_minute_past">minute past</string>
+    <string name="talk_quarter">a quarter</string>
+    <string name="talk_half">half</string>
+    <string name="talk_comma">\u002c\u0020</string>
+
+
+    <!-- error strings !-->
+    <string name="err_zero_delay">Please select a nonzero delay</string>
+    <string name="err_beep_and_talk">You might not want to activate the beep and the talking clock simultaneously</string>
+
+    <!-- misc strings !-->
+    <string name="space">\u0020</string>
+    <string name="hours">Hours</string>
+    <string name="hour">Hour</string>
+    <string name="minutes">Minutes</string>
+    <string name="minute">Minute</string>
+    <string name="seconds">Seconds</string>
+    <string name="second">Second</string>
+
+</resources>
